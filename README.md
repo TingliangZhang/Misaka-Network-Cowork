@@ -22,3 +22,16 @@
 这方面我刚刚开始做，也是一个新的想法，目前的文献调研和想法在[positioning-consensus-algorithm](https://github.com/TingliangZhang/positioning-consensus-algorithm)
 
 需要做出实际的小车来跑，涉及较多的硬件。
+
+## consensus.ipynb 说明
+
+在Python 3.8.1环境下运行
+
+```powershell
+pip install numpy
+pip install pandas
+pip install xlrd
+pip install sklearn
+pip install matplotlib
+```
+
